@@ -14,7 +14,7 @@ I have an understanding of navigating the VM moving into the directories which w
 
 
 What didn't go as planned? 
-I was unable to get the website to work
+I was unable to get the containers to communicate
 
 
 Possible improvements for future challenges.
