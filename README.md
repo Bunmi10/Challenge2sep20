@@ -19,4 +19,4 @@ I was unable to get the website to work
 
 Possible improvements for future challenges.
 
-To do more research, go over the demos, study the area that are still not clear and come up with questions t
+To do more research, go over the demos, study the area that are still not clear and come up with questions for clarification
