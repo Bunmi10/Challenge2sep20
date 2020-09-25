@@ -5,7 +5,7 @@ To run a flask application in a Docker container and an sql and for both of them
 
 How I expected the challenge to go. 
 
-I expected the challenge to demostrate my understanding of containers and how they are used to package code
+I expected the challenge to demostrate my understanding of containers and how they are used to package code and also networking.
 
 
 What went well? 
