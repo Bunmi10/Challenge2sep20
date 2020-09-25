@@ -1,6 +1,6 @@
 ##### Challenge2sep20
 What was the challenge
-To run a flask application in a Docker container
+To run a flask application in a Docker container and an sql and for both of them to communicate
 
 
 How I expected the challenge to go. 
